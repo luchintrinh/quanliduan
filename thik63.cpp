@@ -23,3 +23,4 @@ int main(){
 	nhap();
 	xetkhoang();
 }
+// heehe da them doan nay nha
